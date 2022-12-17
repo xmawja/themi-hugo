@@ -29,8 +29,6 @@
   </p>
 </p>
 
-A simple and clean blog theme for [Hugo](https://gohugo.io/).
-
 ![](images/screenshot.png)
 
 ## Live Demo
