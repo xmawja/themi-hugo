@@ -64,7 +64,7 @@ If you like my project or it was useful for you, consider supporting its develop
 <!---------------------------------------------- CREADITS --------------------------------------------->
 ## Special Thanks
 
--   Go Hugo Team, for this great [website](https://gohugo.io/documentation/) about hugo documentation.
+-   Go Hugo Team, for this great [DOCS](https://gohugo.io/documentation/).
 -   All contributors, for every PR and Issue reported.
 
 <!---------------------------------------------- MEDIA LINKS ------------------------------------------>
